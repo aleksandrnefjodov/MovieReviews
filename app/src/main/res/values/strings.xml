@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieReviews</string>
+    <string name="title_reviews">Reviews</string>
+    <string name="title_critics">Critics</string>
+    <string name="status">Status %s</string>
+    <string name="read_review">Read review</string>
+    <string name="retry">Retry</string>
+</resources>

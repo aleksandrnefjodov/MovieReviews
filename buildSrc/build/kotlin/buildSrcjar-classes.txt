@@ -1,0 +1,1 @@
+C:\Users\nefedov\Study\MovieReviews\buildSrc\build\classes\kotlin\main\ConfigData.class;C:\Users\nefedov\Study\MovieReviews\buildSrc\build\classes\kotlin\main\Dependencies.class;C:\Users\nefedov\Study\MovieReviews\buildSrc\build\classes\kotlin\main\Versions.class
